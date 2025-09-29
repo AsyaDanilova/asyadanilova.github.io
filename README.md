@@ -54,7 +54,6 @@ I’m a **27-year-old aspiring Front-End Developer** who found a passion for cod
 
 ### 🌟 Stats & Achievements
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asyaDanilova&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats-asyaDanilova-projects.vercel.app/api/top-langs/?username=asyaDanilova&size_weight=1&count_weight=0&theme=radical)
 <img src="http://github-readme-streak-stats.herokuapp.com?user=asyaDanilova&theme=radical&date_format=M%20j%5B%2C%20Y%5D"><br><br>
 <img src="https://www.codewars.com/users/AsyaDanilova/badges/large">
 
